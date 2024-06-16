@@ -1,0 +1,20 @@
+
+.btn-custom {
+  background-color: unset;
+  color: white ;
+  border-radius: 50px
+  
+}
+.btn-custom:hover {
+  background-color: unset ;
+  border-color: white ;
+}
+.btn-custom >img{
+   width: 1.25rem;
+   height: 1.25rem;
+   position: relative;
+   bottom: .1rem;
+  }
+  .rounded{
+    box-shadow: 0 0 10px #7777; /* Đây là định nghĩa cho bóng */
+  }
